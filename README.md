@@ -1,12 +1,8 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # hw01
 Repository for homework 1
 
-## Simon Yamawaki Shachter Autobiography
+## Simon Yamawaki Shachter
+### Autobiography
 
 <img src="https://pbs.twimg.com/profile_images/575678523521683458/Psv53-eU_400x400.jpeg" width="200">
 
