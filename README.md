@@ -28,7 +28,7 @@ I *hope* to attend law school to become a federal prosecutor.
 
 I really love to horseback ride and try to spend time in the saddle whenever I'm not on campus.
 
-![](missy 6.jpg)
+![](missy.jpg) 
 
 
 
