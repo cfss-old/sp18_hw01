@@ -21,4 +21,7 @@ Here are some basic facts about my graduate career. I am...
 
 ## About my process
 
-In order to complete this assignment I first followed all of the installation instructions carefully, and had little trouble getting my system set up. I had never "forked" a repository before, but I was delighted that it was so easy. After cloning the repository, I had fun learning the Markdown syntax from [this helpful link](https://daringfireball.net/projects/markdown/basics). 
+In order to complete this assignment I first followed all of the installation instructions carefully, and had little trouble getting my system set up. I had never "forked" a repository before, but I was delighted that it was so easy. After cloning the repository, I had fun learning the Markdown syntax from [this helpful link](https://daringfireball.net/projects/markdown/basics). I was also excited to learn that Markdown supports emojis!
+
+:open_mouth:
+
