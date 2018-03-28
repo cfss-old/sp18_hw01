@@ -11,11 +11,10 @@ a: *fsssssh*
 
 **here's a photo of elayne**
 
-![Image of Elayne Stecher](https://raw.githubusercontent.com/estech01/myrepo/master/Screen%20Shot%202017-12-04%20at%203.31.52%20PM.png)
-
+![Image of Elayne Stecher](https://raw.githubusercontent.com/estech01/myrepo/master/elayne.png)
 
 > "she is a nice lady"
-> -elayne's mom
+> - elayne's mom
 
 
 ### some facts about elayne
