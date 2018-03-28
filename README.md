@@ -20,4 +20,4 @@ Repository for homework 1
 
 # __Report of Process__
 
-Since I had a guide to the syntax, this assignment seemed relatively straightforward. You simply click copy the repository from GitHub and clone it in RStudio on a new project. You then add the text to the README.md in R Markdown syntax. For the R Markdown syntax, I used [this website] (https://guides.github.com/features/mastering-markdown/#examples). I did have to go back and check the course website to remind myself how to pull/push files between RStudio and GitHub. 
+Since I had a guide to the syntax, this assignment seemed relatively straightforward. You simply click copy the repository from GitHub and clone it in RStudio on a new project. You then add the text to the README.md in R Markdown syntax. For the R Markdown syntax, I used [this website](https://guides.github.com/features/mastering-markdown/#examples). I did have to go back and check the course website to remind myself how to pull/push files between RStudio and GitHub. 
