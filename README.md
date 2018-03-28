@@ -5,18 +5,22 @@ Repository for homework 1
  
 *David Whyman was born in Washington, DC on June 5, 1998.*
 
-### **About David!**
+### **David's Education**
 David graduated from Walt Whitman High School in Bethesda Maryland. Now, David is a public policy major at the University of Chicago.
 
-### here are some things David likes!
+### David's Hobbies!
 * Travel
 * Literature
   * Magical Realism
 * Art
    * Figure Drawing
+   * Landscape Painting
 * Horseback Riding 
 
-![Image of David](https://github.com/whymand/hw01/blob/master/IMG_9358.JPG)
+### About David
+I look at the world in an analytical way. Deconstructing complex issues and seeing how all the little parts interact is really cool. That's why I'm curious about research. Computer science and statistics provide useful tools to analyze these issues. 
+
+<img style="float:left;transform: rotate(90deg); width:300px" src="https://github.com/whymand/hw01/blob/master/IMG_9358.JPG" />
 
 
  
