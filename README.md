@@ -14,7 +14,7 @@ David graduated from Walt Whitman High School in Bethesda Maryland. Now, David i
   * Magical Realism
 * Art
    * Figure Drawing
-* Horseback Riding
+* Horseback Riding 
 
 
 
