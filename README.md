@@ -10,7 +10,7 @@
 
 1. I have two main projects right now
   + I use eye tracking and verbal descriptions to understand how people make meaning from violence
-  + I used physiological and behavioral data in a haunted house to study how people play in scry situations
+  + I used physiological and behavioral data in a haunted house to study how people play in scary situations
 
 2. You can find decriptions of these projects and others at [my website](https://sites.google.com/view/coltanscrivner/home)
 
