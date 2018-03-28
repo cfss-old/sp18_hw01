@@ -20,7 +20,7 @@ David graduated from Walt Whitman High School in Bethesda Maryland. Now, David i
 ### About David
 I look at the world in an analytical way. Deconstructing complex issues and seeing how all the little parts interact is really cool. That's why I'm curious about research. Computer science and statistics provide useful tools to analyze these issues. 
 
-<img style="float:left;transform: rotate(90deg); width:300px" src="https://github.com/whymand/hw01/blob/master/IMG_9358.JPG" />
+<img style="float:left;transform: rotate(0deg); width:300px" src="https://github.com/whymand/hw01/blob/master/IMG_9358.JPG" />
 
 
  
