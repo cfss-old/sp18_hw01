@@ -1,7 +1,7 @@
 # HW1: Biography
 ### Author: Harry Won Seok Lee
 
-I am a graduate student currently completing the *Master of Arts Program in Social Sciences* (MAPSS). I major in **International Political Economy** and I am currently researching the political economy of export restrictions on natural resources. My other academic/non-academic interests include:
+I am a graduate student in the *Master of Arts Program in Social Sciences* (MAPSS). I major in **International Political Economy** and I am currently researching the political economy of export restrictions on natural resources. My other academic/non-academic interests include:
 
 1. Academic 
 * State Capitalism 
@@ -28,4 +28,4 @@ What I miss about Beijing the most are the areas located in the centre of the ci
 **Liqun Peking Duck Restaurant (on the way in):**
 ![image of inside](https://media-cdn.tripadvisor.com/media/photo-s/0f/ac/51/ed/beijing-liqun-roast-duck.jpg)
 
-(Disclosure: the author is in no way affiliated with this restaurant)
+*(Disclosure: the author is in no way affiliated with this restaurant)*
