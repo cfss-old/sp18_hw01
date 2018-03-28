@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # hw01
 # Hi, my name is Sophia. 
 ![facebook photo](https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-9/16730486_1368349993188281_4048724534790939077_n.jpg?_nc_cat=0&oh=482788aa590f4e686179a585c8ea33a0&oe=5B3E6C2A)
