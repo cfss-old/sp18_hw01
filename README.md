@@ -16,6 +16,7 @@ David graduated from Walt Whitman High School in Bethesda Maryland. Now, David i
    * Figure Drawing
 * Horseback Riding 
 
+![Image of David](https://github.com/whymand/hw01/blob/master/IMG_9358.JPG)
 
 
  
