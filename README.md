@@ -1,10 +1,10 @@
 # hw01, computing for social sciences
 
-## *joke for the TAs*
+## joke for the TAs
 
-q: what do you call a fish with no eyes?
+q: *what do you call a fish with no eyes?*
 
-a: fsssssh
+a: *fsssssh*
 
 
 ## a basic introduction to elayne stecher
