@@ -21,8 +21,8 @@ a: *fsssssh*
 ### some facts about elayne
 * she is studying her MA in international relations
 * she's studied python and C++
-* she likes her shell with a dark background
-  * but the traditional black and white is ok too
-  * she's not too picky
+* she is writing her thesis on drug trafficking organizations 
+  * are mexican DTOs engaged in civil war?
+  * how can we use data to understand violence?
 * she originally learned how to link like this from [reddit](https://www.reddit.com)
 * her favorite color is red-orange
