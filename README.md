@@ -1,5 +1,5 @@
 
-![](C:/Users/amand/OneDrive/Pictures/ABrown_0.jpg "Title")
+![](https://avatars3.githubusercontent.com/u/31706942?s=460&v=4 "Amanda Brown")
 
 # Amanda Brown's homework 01 
 
@@ -15,7 +15,7 @@ Here are some basic facts about my graduate career. I am...
 - in my 5th year of study
 - Planning to graduate in August 2019
 - Looking to complete the Computational Social Science Certificate next year
-- Check out my brand new [Linked In Profile](www.linkedin.com/in/amandaroseb)
+- Check out my brand new [Linked In Profile](https://www.linkedin.com/in/amandaroseb)
 
 *Dissertation title: Inventing the Impossible to Interpret the Everyday: How the Social Context of Children's Pretend Play Impacts Development* 
 
