@@ -25,3 +25,4 @@ a: *fsssssh*
   * but the traditional black and white is ok too
   * she's not too picky
 * she originally learned how to link like this from [reddit](https://www.reddit.com)
+* her favorite color is red-orange
