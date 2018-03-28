@@ -1,7 +1,4 @@
-# hw01
-Repository for homework 1
-
-# __Biography__
+# __hw01 Biography__
 
 ## **Degrees**
 
