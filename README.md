@@ -1,13 +1,13 @@
 # hw01, computing for social sciences
 
-*joke for the TAs*
+## *joke for the TAs*
 
 q: what do you call a fish with no eyes?
 
 a: fsssssh
 
 
-### a basic introduction to elayne stecher
+## a basic introduction to elayne stecher
 
 **here's a photo of elayne**
 
@@ -15,7 +15,7 @@ a: fsssssh
 
 
 > "she is a nice lady"
-> - elayne's mom
+> -elayne's mom
 
 
 ### some facts about elayne
