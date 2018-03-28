@@ -1,2 +1,2 @@
-# hw01
-Repository for homework 1
+# Andrew Hill
+## Homework 1
