@@ -2,6 +2,7 @@
 Repository for homework 1
 
 #Biography
+
 My name is Taylor Laties and I am a fourth year undergraduate. I was born in New Jersey, but consider myself to be from Arizona, since I have lived there for the past 9 years (minus my time at school). Here is a picture of my favorite spot in the state: 
 
 ![Antelope Canyon](https://raw.githubusercontent.com/tlaties/hw01/master/lower-antelope2_small.jpg)
