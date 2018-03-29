@@ -6,11 +6,16 @@
 
 I am Yali Peng, a *J.S.D.* student from **the law school**. I have only used R for statistical analysis and no more. 
 
--My Hobby\
-  -I like reading and traveling. I traveled to Israel and Palestine this spring break, where I also go to the borderline with Syria. 
+- Dashes work just as well
+- And if you have sub points, put two spaces before the dash or star:
+  - Like this
+  - And this
   
--My Research Interest\
-  -I specialize in criminal justice. To complete my dissertation, I need to transform judgments into data, and I also need to learn more about programming and computing. After all, I have __little__ experience in computation!
+- My Hobby
+  - I like reading and traveling. I traveled to Israel and Palestine this spring break, where I also go to the borderline with Syria. 
+  
+- My Research Interest
+  - I specialize in criminal justice. To complete my dissertation, I need to transform judgments into data, and I also need to learn more about programming and computing. After all, I have __little__ experience in computation!
 
 
 
