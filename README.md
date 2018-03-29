@@ -7,7 +7,7 @@ I'm Rachel, a native Chicagoan in the MAPSS program here at UChicago concentrati
 
 ![Alt text][image]
 
-[image]: image/Zelda4.jpg
+[image]: image/Zelda4.JPG
 
 Here's a list of my favorite TV shows:
 
