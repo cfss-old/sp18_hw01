@@ -5,11 +5,6 @@
 ## Introduction
 
 I am Yali Peng, a *J.S.D.* student from **the law school**. I have only used R for statistical analysis and no more. 
-
-- Dashes work just as well
-- And if you have sub points, put two spaces before the dash or star:
-  - Like this
-  - And this
   
 - My Hobby
   - I like reading and traveling. I traveled to Israel and Palestine this spring break, where I also go to the borderline with Syria. 
