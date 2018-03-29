@@ -15,8 +15,8 @@ Hi all, my name is Moiz and I'm a graduate student in the MAPSS program. I'm *re
 2. To embed the image of Portland, I started the line with an exclamation point "!", typed two square brackets "{}" without text in-between because I did not want the image labeled, and placed the link of the photo within regular brackets "()".
 3. To place emphasis on the word "really" using italics, I placed the word between two stars "*".
 4. To create the list of basic info about myself, I simply typed out the list as shown above. A line break was added before and after the list.
-5. After completely writing out the text, I staged the "hw01.Rproj" file and clicked the "commit" button.
-6. Next, I clicked the "push" button.
+5. After completely writing out the text, I staged the "README.md" file and clicked the "commit" button.
+6. Next, I added a comment to commit and clicked the "push" button to sync the file with GitHub.
 7. Finally, on the GitHub page, I created a pull request on the original repository. In the "Branch" menu, I chose the branch containing all of my commits. Then, I clicked on the "New pull request" button to the right of the Branch menu. Next, I used the "base" branch dropdown menu to select the original branch and the "compare" branch dropdown menu to select the branch with my changes. Finally, I typed a title and description where prompted and clicked the "Create pull request" button.
 
 # Reflections on GitHub Workflow and Experience with Markdown
