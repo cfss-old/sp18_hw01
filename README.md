@@ -19,7 +19,7 @@ Hi all, my name is Moiz and I'm a graduate student in the MAPSS program. I'm *re
 6. Next, I clicked the "push" button.
 7. Finally, on the GitHub page, I created a pull request on the original repository. In the "Branch" menu, I chose the branch containing all of my commits. Then, I clicked on the "New pull request" button to the right of the Branch menu. Next, I used the "base" branch dropdown menu to select the original branch and the "compare" branch dropdown menu to select the branch with my changes. Finally, I typed a title and description where prompted and clicked the "Create pull request" button.
 
-# Reflections on GitHub workflow and experience with Markdown
+# Reflections on GitHub Workflow and Experience with Markdown
 
 1. It was not initially intuitive how and where to use Markdown syntax until I saw the syntax dropdown menu, with the option of writing in Markdown syntax, in the bottom right corner of the pane where the changes to the README.md file were later made. After I saw this, the process of creating changes was straightforward.
 2. The GitHub workflow seems to make good sense. Fork, clone, do homework and commit, push, and finally pull. Initially, I was confused as to where I was supposed to do the homework on RStudio. Again, after seeing the syntax dropdown menu, the tasks I needed to complete became easier to understand.
