@@ -1,12 +1,12 @@
 # hw01
 Repository for homework 1
 
-#Golnar Babakhani Teimouri
+# Golnar Babakhani Teimouri
 
-##Background##
+## Background
 I was born and raised in Iran. When I was a sophomore in college, I joined millions of other Iranians to  protest the fraudulent result of 2009 presidential election. In this very unclear [photo](photo.jpg), I am one of the girls on top of the university gates. A very clear version of this photo and even more clear videos led to my expulsion 'due to political activism against the government'. So, I left Iran and my family and moved to the U.S. by myself (**not fun!**). 
 
-##Academic Interests##
+## Academic Interests
 I got into college in Iran for chemical engineering, did French Literature instead, and switched to sociology for undergrad in the United States. I am now getting my master degree in political science! I am specifically interested in:
 
 * Racial politics
