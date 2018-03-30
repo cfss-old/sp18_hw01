@@ -12,6 +12,5 @@ I'm a first year doctoral student in **sociology** department. My work explores 
 * Social Change
 * Social Theory
 
-*Email*
-
+*Email* 
 [jiminyoon@uchicago.edu](mailto:jiminyoon@uchicago.edu)
