@@ -1,6 +1,6 @@
 # hw01
 Repository for homework 1
- 
+------------------------------
 # A bio for David Whyman!
  
 *David Whyman was born in Washington, DC on June 5, 1998.*
