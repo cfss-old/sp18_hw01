@@ -22,7 +22,7 @@ I look at the world in an analytical way. Deconstructing complex issues and seei
 
 ### David's Activities
 At the University of Chicago, I am involved in the Paul Douglas Institute, *The Citizen Bulletin*, and *The Maroon*. Check out this article I wrote for *The Maroon*:
-https://www.chicagomaroon.com/article/2018/3/30/preckwinkle-talks-soda-tax-criminal-justice/
+[article](https://www.chicagomaroon.com/article/2018/3/30/preckwinkle-talks-soda-tax-criminal-justice/)
 
 
 <img style="float:left;transform: rotate(0deg); width:300px" src="https://github.com/whymand/myrepo/blob/master/Biopic.jpg" />
