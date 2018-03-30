@@ -1,6 +1,6 @@
 # hw01
 
-![](Picture of Marie.jpg)
+![picture](Picture of Marie.jpg)
 
 # Marie's Biography
 I am a graduate student in the MAPSS program at the University of Chicago, where I am concentrating in sociology. 
