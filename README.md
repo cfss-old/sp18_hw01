@@ -15,9 +15,8 @@ I got into college in Iran for chemical engineering, did French Literature inste
 
 
 
-##A Fun Fact##
-Unlike most of my friends, I love Chicago weather. I am used to 4 seasons. YES, I am from the Middle East and we *do have snow* in many parts of my country. In fact, in 2016, CNN travel called Iran [the next ski destination](https://www.cnn.com/travel/article/iran-ski-dizin-damavand-silk-road/index.html). This ski piste is exactly 6.02 miles away from my family's apartment
-[Tochal Ski Piste](http://www.damawand.de/Ski/Tochal.html). However, I do not know how to ski or snowboard !
+##A Fun Fact About Iran##
+Unlike most of my friends, I love Chicago weather. I am used to 4 seasons. YES, I am from the Middle East and we *do have snow* in many parts of my country. In fact, in 2016, CNN travel called Iran [the next ski destination](https://www.cnn.com/travel/article/iran-ski-dizin-damavand-silk-road/index.html). [This ski piste](http://www.damawand.de/Ski/Tochal.html) is exactly 6.02 miles away from my family's apartment.
 
 
 
