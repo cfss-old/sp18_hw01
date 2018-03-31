@@ -3,7 +3,7 @@ Repository for homework 1
 # Self-Introduction
 ![](https://artificery.com/wp-content/uploads/2017/09/portland-oregon.jpg)
 
-Hi all, my name is Moiz and I'm a graduate student in the MAPSS program. I'm *really* new at coding, but here's my attempt at listing some basic info about myself:
+Hi all, my name is Moiz and I'm a graduate student in the MAPSS program. I'm *really* new to coding, but here's my attempt at listing some basic info about myself:
 
 1. Concentration: Political Science
 2. Hometown: Portland, Oregon
