@@ -1,5 +1,3 @@
-# hw01
-Repository for homework 1
 # Self-Introduction
 ![](https://artificery.com/wp-content/uploads/2017/09/portland-oregon.jpg)
 
