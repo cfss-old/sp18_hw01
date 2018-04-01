@@ -2,7 +2,8 @@
 Repository for homework 1
 test
 
-# This is an <h1> tag
+	
+# Header 1
 
 My name is **Jason** and I *love* frisbee and *CS*. I have never used Github but this is a cool photo ![GitHub Logo](/images/logo.png)
 Format: ![Alt Text](url).
