@@ -3,8 +3,8 @@
 I am a fourth-year undergraduate student at UChicago, majoring in Economics, Math, and Political Science. I am passionate about economics research, and plan to pursue graduate study in economics.
 
 ## Background
-I was born in **Beijing**, China, and spent my whole life there before coming to the US for college.
-![Beijing](https://github.com/SophiaMo/hw01/blob/master/Image.png)
+I was born in **Beijing, China**, and spent my whole life there before coming to the US for college.
+![Beijing](https://github.com/SophiaMo/hw01/blob/master/Image.png=100x20)
 
 ## Interest
 I love reading, particularly fictions. Below are some of my favorite books:
