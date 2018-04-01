@@ -15,7 +15,7 @@ My favorite quote from one the above books is:
 
 ## Description of Method
 
-###Markdown Formatting
+### Markdown Formatting
 I experimented with five markdown elements in this assignment: 
 
 1. Headings
@@ -26,7 +26,7 @@ I experimented with five markdown elements in this assignment:
 
 I placed two hashtags prior to the text of my headings to describe a level 2 type heading. I placed three hashtags prior to the text of some headings to describe a level 3 type heading.  To italicize words, I wrapped them with one star. To embolden words, I wrapped them with two stars. To embed links I first wrapped the title of the book in square brackets and then copy-pasted the Amazon link in curly brackets, exactly adjacent (without space), to the title of the book. To put text into blockquotes I used ">" operator, which I placed immediately before the text I wanted to put into blockquotes, without space. To create bullet lists, I placed one star and a space stroke before the start of the text of the bullet point. 
 
-###Github and R Studio 
+### Github and R Studio 
 I wrote everything directly on a text editor and then copy-pasted into the RStudio README text file. I then previewed my document to ensure everthing made sense and displayed properly. I had earlier set-up my GitHub and R Studio to work together. Hence, I simply had to first commit the changed README file by checking the "staged" box adjacent to it, and then clicking on "Commit". I then typed in a commit message and pressed "Commit". Next, I did an empty "pull" to develop a force of habit, by clicking on the blue pull button. Then I did a "push" by the clicking the green upward arrow. 
 
 ### Reflections
