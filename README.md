@@ -13,4 +13,6 @@ Repository for homework 1
    + Jaqen Hghar
 
 image:
-![A pic of me at Signature Lounge](IMG_0092.jpg)
+![](IMG_0092.jpg)
+
+A pic of me at Signature Lounge
