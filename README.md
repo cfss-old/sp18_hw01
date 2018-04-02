@@ -5,6 +5,7 @@ Hello! I'm a MAPSS student from New Jersey, with a focus in Linguistic Anthropol
 * media
 * identity
 * naming
+
 and I have *zero coding experience* so am excited to learn! 
-![](https://github.com/kiragreenberg/hw01/BioPhoto.jpg)
+![](BioPhoto.jpg)
 
