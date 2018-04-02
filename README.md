@@ -10,4 +10,4 @@ My current interests include:
 * Historic preservation 
 * Community engagement 
 
-My current work is on the [Pullman Neighborhood] (https://www.nps.gov/pull/index.htm) on the South Side of Chicago  
+My current work is on the [Pullman Neighborhood](https://www.nps.gov/pull/index.htm) on the South Side of Chicago  
