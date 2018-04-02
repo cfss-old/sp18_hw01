@@ -8,8 +8,8 @@ Repository for homework 1
       - when it doesn't snow
    + Tokyo
 1. My favorite GOT characters
-   i) Jamie Lannister
-   i) Olenna Tyrell
-   i) Jaqen Hghar
+   + Jamie Lannister
+   + Olenna Tyrell
+   + Jaqen Hghar
 image:
 ![A pic of me at Signature Lounge](IMG_0092.jpg)
