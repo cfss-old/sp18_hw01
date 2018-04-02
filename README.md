@@ -6,7 +6,7 @@ I grew up in southern Mississippi and went to college at **Louisiana State Unive
 
 My current interests include:
 * Urban land use policies
-* Architecture 
+* Architecture
 * Historic preservation 
 * Community engagement 
 
