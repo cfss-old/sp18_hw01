@@ -11,5 +11,6 @@ Repository for homework 1
    + Jamie Lannister
    + Olenna Tyrell
    + Jaqen Hghar
+
 image:
 ![A pic of me at Signature Lounge](IMG_0092.jpg)
