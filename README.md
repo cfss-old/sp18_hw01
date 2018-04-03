@@ -38,7 +38,7 @@ Outside of research, my main hobbies are:
 
 Here is a picture of myself and Jack (my traveling duck) on a glacier
 
-![Jack](C:\Users\Dan\OneDrive\Pictures\IMG5981.jpg)
+<img src="C:\Users\Dan\OneDrive\Pictures\IMG5981.jpg" class="img-responsive" alt=""> </div>
 
 # Thoughts
 At first I found Github and markdown rather complicated. Inititially, I had problems using the Github Bash/GUI to commit changes. Also, I have expierence coding in R but have never used markdown. There was a little bit of a learning curve. I hope these added complexities pay-off.
