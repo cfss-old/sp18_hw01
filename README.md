@@ -1,5 +1,5 @@
 # hw01
-# A Breif Bio for Sophia Mo
+# A Brief Bio for Sophia Mo
 I am a fourth-year undergraduate student at UChicago, majoring in Economics, Math, and Political Science. I am passionate about economics research, and plan to pursue graduate study in economics.
 
 ## Background
